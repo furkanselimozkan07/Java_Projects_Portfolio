@@ -58,5 +58,5 @@ I welcome collaboration and contributions! If you find any issues or have ideas 
 
 Contact Information
 Feel free to reach out with any questions or feedback!
-GitHub Profile: Furkan Selim Özkan
-LinkedIn: Furkan Selim Özkan
+GitHub Profile: [Furkan Selim Özkan](https://github.com/furkanselimozkan07)
+LinkedIn: [Furkan Selim Özkan](https://www.linkedin.com/in/furkanselimozkan07/)
